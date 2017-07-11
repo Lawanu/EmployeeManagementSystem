@@ -182,7 +182,7 @@ case 1:func=0;//exception handle
     case 3:
     System.out.println("__MANAGER Entry__");
     num=0;//exception check
-	System.out.println("Count:"+Employee.count);
+	
      emp_c.add(new Manager());
     
 	Employee.count++;
