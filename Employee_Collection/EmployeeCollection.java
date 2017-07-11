@@ -15,7 +15,7 @@ class InvalidAgeException extends Exception
 	}
 }
 
-abstract class Employee implements Serializable
+abstract class Employee
 {
 	Employee e1;
 	String name;
